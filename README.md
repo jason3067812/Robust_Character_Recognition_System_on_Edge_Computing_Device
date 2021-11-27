@@ -1,4 +1,4 @@
-# Yolov4_with_post-processing_optimized_ralgorithm
+# Yolov4_with_post-processing_optimized_algorithm
 
 ## Abstract
 No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters.
@@ -11,10 +11,10 @@ I have implemented two algorithms to optimize yolov4 in character recognition:
 
 ## Algorithms flow chart
 1. Error bounding box detection
-![image](https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png)
+<br>![image](https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png)
 
 2. Upside-down characters detection
-![image](https://user-images.githubusercontent.com/56544982/143669545-e44f7c3e-2766-425a-ba11-9f8fbafbb44e.png)
+<br>![image](https://user-images.githubusercontent.com/56544982/143669545-e44f7c3e-2766-425a-ba11-9f8fbafbb44e.png)
 
 
 
