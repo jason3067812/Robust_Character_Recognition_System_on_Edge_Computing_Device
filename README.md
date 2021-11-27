@@ -1,4 +1,4 @@
-# Yolov4_with_robust_abnormal_bbox_deletion_algorithm
+# Yolov4_with_post-processing_optimized_ralgorithm
 
 ## Abstract
 No matter how good the model is, it is inevitable that there will be abnormal candidate boxes, so I made a good algorithm to filter out those abnormal candidate boxes.
