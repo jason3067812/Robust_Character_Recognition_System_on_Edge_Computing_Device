@@ -25,7 +25,11 @@ I have implemented two algorithms to optimize yolov4 in character recognition:
 
 Normal algorithms cannot compare all the duplicate bounding boxes. 
 
-![image](https://user-images.githubusercontent.com/56544982/143669623-628e5a7e-b4e5-41e4-be79-918ef36f919a.png)
+![image](https://user-images.githubusercontent.com/56544982/143669646-9175078c-9404-49a0-92bb-b7ff4fe58d0e.png)
+
+My algorithms can compare all the duplicate bbox and choose the right one in the end
+
+![image](https://user-images.githubusercontent.com/56544982/143669663-60761717-52d0-448e-8ed4-d280bafa1e51.png)
 
 
 ## Usage
