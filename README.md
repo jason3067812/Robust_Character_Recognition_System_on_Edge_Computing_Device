@@ -40,7 +40,7 @@ My algorithms can compare all the duplicate bbox and choose the right one in the
 
 ![image](https://user-images.githubusercontent.com/56544982/143669714-b851c601-5408-4881-ae39-68146f9ae6da.png)
 
-![image](https://user-images.githubusercontent.com/56544982/143669722-f2d9927c-155a-43de-b228-6779a7f6f17d.png)
+![image](https://user-images.githubusercontent.com/56544982/143669733-fd1a7cf0-0cb8-42d4-a5f1-52cd3b31f0ae.png)
 
 
 
