@@ -7,7 +7,7 @@ Therefore, I aim to write algorithms to optimize the final result.
 
 ## Introduction
 
-I have implemented two algorithms to optimize yolov4 in character recognition:
+I have implemented two algorithms to optimize YOLOv4 in character recognition:
 
 1. Error bounding box detection
 2. Upside-down characters detection
