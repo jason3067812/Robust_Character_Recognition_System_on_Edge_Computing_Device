@@ -1,4 +1,4 @@
-# Yolov4 with post-processing optimized algorithms
+# YOLOv4 with post-processing optimized algorithms
 
 ## Abstract
 
@@ -32,7 +32,7 @@ My algorithms can compare all the duplicate bbox and choose the right one in the
 ![image](https://user-images.githubusercontent.com/56544982/143669663-60761717-52d0-448e-8ed4-d280bafa1e51.png)
 
 ## Usage
-1. This code is based on yolov4, so please download the code from here first: https://github.com/miemie2013/Pytorch-YOLOv4
+1. This code is based on YOLOv4, so please download the code from here first: https://github.com/miemie2013/Pytorch-YOLOv4
 2. All algorithm functions are in yolov4_module.py
 3. You can refer to my main code to know how to use those algorithms.
 
