@@ -17,7 +17,7 @@
 
 <br>![image](https://user-images.githubusercontent.com/56544982/143669545-e44f7c3e-2766-425a-ba11-9f8fbafbb44e.png)
 
-## Error bounding box detection introduction
+## Error bounding box detection detail
 
 Normal algorithm only compare anterior and posterior bounding boxes and cannot compare all the duplicate bounding boxes (when there are more than 2 bounding boxes on the same object). 
 
