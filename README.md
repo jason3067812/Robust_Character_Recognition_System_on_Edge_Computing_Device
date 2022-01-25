@@ -2,11 +2,9 @@
 
 ## Abstract
 
-No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters.
-Therefore, I aim to write algorithms to optimize the final result.
+- No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters. Therefore, I aim to write algorithms to optimize the final result.
 
-I have implemented two algorithms to optimize YOLOv4 in character recognition:
-
+- I have implemented two algorithms to optimize YOLOv4 in character recognition:
 1. Error bounding box detection
 2. Upside-down characters detection
 
