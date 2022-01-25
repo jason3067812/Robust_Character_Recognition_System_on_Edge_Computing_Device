@@ -23,11 +23,11 @@ I have implemented two algorithms to optimize YOLOv4 in character recognition:
 
 ## Key feature
 
-Normal algorithms only compare anterior and posterior bounding boxes and cannot compare all the duplicate bounding boxes (when there are more than 2 bounding boxes on the same object). 
+Normal algorithm only compare anterior and posterior bounding boxes and cannot compare all the duplicate bounding boxes (when there are more than 2 bounding boxes on the same object). 
 
 ![image](https://user-images.githubusercontent.com/56544982/143669646-9175078c-9404-49a0-92bb-b7ff4fe58d0e.png)
 
-My algorithms can compare all the duplicate bbox and choose the right one in the end.
+Therefore I develop an algorithm to compare all the duplicate bbox and choose the right one in the end.
 
 ![image](https://user-images.githubusercontent.com/56544982/143669663-60761717-52d0-448e-8ed4-d280bafa1e51.png)
 
