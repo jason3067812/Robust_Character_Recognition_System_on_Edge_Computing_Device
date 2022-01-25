@@ -37,7 +37,7 @@ My algorithms can compare all the duplicate bbox and choose the right one in the
 
 ## <P.S.>
 1. All algorithm functions are in yolov4_module.py
-2. You can refer to my main code to realize how to use those algorithms.
+2. You can refer to my main code to realize how to use those algorithms
 
 ## Demo
 
