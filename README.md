@@ -23,7 +23,7 @@ Normal algorithm only compare anterior and posterior bounding boxes and cannot c
 
 ![image](https://user-images.githubusercontent.com/56544982/143669646-9175078c-9404-49a0-92bb-b7ff4fe58d0e.png)
 
-Therefore I developed an algorithm to compare all duplicate bboxes (o matter how many boxes appear) and select the only right one in the end.
+Therefore I developed an algorithm to compare all duplicate bboxes (no matter how many boxes appear) and select the only right one in the end.
 
 ![image](https://user-images.githubusercontent.com/56544982/143669663-60761717-52d0-448e-8ed4-d280bafa1e51.png)
 
