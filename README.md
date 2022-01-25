@@ -33,9 +33,11 @@ My algorithms can compare all the duplicate bbox and choose the right one in the
 
 ## Usage
 1. This code is based on YOLOv4, so please download the code from here first: https://github.com/miemie2013/Pytorch-YOLOv4
-2. Follow my YOLOv4 environment setup tutorial.ppt to setup all pre-processing works
-3. All algorithm functions are in yolov4_module.py
-4. You can refer to my main code to know how to use those algorithms.
+2. Download and follow the content in my YOLOv4 environment setup tutorial.pptx step-by-step to finish all pre-processing works
+
+## <P.S.>
+1. All algorithm functions are in yolov4_module.py
+2. You can refer to my main code to know how to use those algorithms.
 
 ## Demo
 
