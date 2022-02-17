@@ -44,9 +44,10 @@ https://www.youtube.com/watch?v=7dJ7rLHM37Y
 
 ## Platforms/Requirements
 1. Edge Computing Device: Nvidia AGX
-2. Operating System: Linux
-3. Programming Language: Python
-4. Environment: Pytorch for System_V1 and Tensorflow for System_V2
+2. Camera: Basler Industrial Camera (acA2440-20gm)
+3. Operating System: Linux
+4. Programming Language: Python
+5. Environment: Pytorch for System_V1 and Tensorflow for System_V2
 
 ## Contributors
 Really thanks to all of them, I learned a lot from them!
