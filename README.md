@@ -37,7 +37,7 @@ By comparing system version 1 and version 2:
 ## Contributors
 Really thanks to all of them, I learned a lot from them!
 - Supervisor: Professor Andrew Lin (andrewlin@g.yzu.edu.tw)
-- Teammates: 李杰穎 (stephen9412@icloud.com), 陳子顥 (s1063715@mail.yzu.edu.tw), 翁薏淳 (JennaWeng0621@gmail.com)
+- Teammates: Stephen Li (cyli09701225@gmail.com), Jeffery Chen (s1063715@mail.yzu.edu.tw), Jenna Weng (JennaWeng0621@gmail.com)
 
 ## Reference
 1. https://github.com/miemie2013/Pytorch-YOLOv4
