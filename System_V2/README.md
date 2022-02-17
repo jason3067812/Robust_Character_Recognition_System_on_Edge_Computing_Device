@@ -1,8 +1,8 @@
-# UI and recognition
+# System version 2: Craft + mobilenet + efficientnet
 
-本功能有兩個模組（兩個資料夾）：
+This system has two modules (two folders):
 
-- recognition_service: 為基於 Tensorflow 的辨識服務 ，請先設置完成，並運行。
-- cam_ui: 為相機讀取與顯示結果的 UI 界面。
+- recognition_service: For the recognition service based on Tensorflow, please set it up first and run it.
+- cam_ui: A UI interface for reading and displaying results for the camera.
 
-兩個模組透過 gRPC 傳送圖片與辨識結果。
+Send images and recognition results via gRPC.
