@@ -1,4 +1,4 @@
-# System version 2: Craft + mobilenet + efficientnet
+# System Version 2: Craft + mobilenet + efficientnet
 
 This system has two modules (two folders):
 
