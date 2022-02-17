@@ -16,7 +16,7 @@ By comparing system version 1 and version 2:
 
 
 ## Platform
-1. hardware: Nvidia AGX
+1. edge computing device: Nvidia AGX
 2. operating system: Linux
 3. language: Python
 4. environment: Pytorch for System_V1 and Tensorflow for System_V2
