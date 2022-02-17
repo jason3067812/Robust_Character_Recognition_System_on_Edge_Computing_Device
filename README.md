@@ -27,7 +27,7 @@ This project includes two different methods (System_V1 and System_V2). For detai
 
 <img src="https://user-images.githubusercontent.com/56544982/154509721-c07edd75-5076-46ea-9ed6-e3a3eb2f0670.png" alt="Cover" width="50%"/>
 
-## Results
+## Testing Results
 By comparing system version 1 and version 2:
 
 1. Testing steel plates:
