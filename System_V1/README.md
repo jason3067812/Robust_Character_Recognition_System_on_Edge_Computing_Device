@@ -2,7 +2,7 @@
 
 ## Abstract
 
-No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters. Therefore, we aim to write algorithms to optimize the final result.
+No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, the appearance of duplicate bounding boxes when the training dataset is not enough in the initial. Therefore, we aim to write robust algorithms to optimize the final result and help increase the recognized accuracy in the initial.
 
 ## Introduction
 
