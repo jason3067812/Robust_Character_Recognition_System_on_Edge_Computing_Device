@@ -45,8 +45,9 @@ Therefore I developed an algorithm which can compare all duplicate bboxes and se
 3. Then start training your own dataset
 
 ## Predicting tutorial
-1. Firstly, run final_system.py
-2. Secoondly, run cam_UI_v2.py
+1. Firstly, setup your camera and connect the cable
+2. Secoondly, run final_system.py
+3. Thirdly, run cam_UI_v2.py
 
 ## Other file function introduction
 1. final_module.py: all of algorithms are in this file
