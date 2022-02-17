@@ -8,8 +8,8 @@ No matter how good the model is, it is inevitable that it still cannot solve som
 
 1. model: YOLOv4
   - Function:
-    Step1: detecting the area of characters then 
-    Step2: identifying the character
+    1: First detecting the area of characters then 
+    2: Then identifying the character in the target area
 3. post-processing algorithms:
   - We have implemented two algorithms to optimize YOLOv4 in character recognition:
     1. Error bounding box detection
