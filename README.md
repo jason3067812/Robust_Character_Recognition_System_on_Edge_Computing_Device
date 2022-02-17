@@ -15,7 +15,7 @@ This project contains two different methods (System_V1 and System_V2). For detai
 
 2. steel coils:
 
-<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="40%"/>
 
 ## Results
 By comparing system version 1 and version 2:
