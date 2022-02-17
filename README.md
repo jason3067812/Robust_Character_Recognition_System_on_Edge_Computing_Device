@@ -1,4 +1,4 @@
-# System 1 : YOLOv4 with robust post-processing algorithms
+# System 1 : YOLOv4 with post-processing algorithms
 
 ## Abstract
 
