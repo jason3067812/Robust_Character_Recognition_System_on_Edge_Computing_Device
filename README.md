@@ -1,4 +1,4 @@
-# Robust Character Recognition System on Nvidia AGX
+# System 1 : YOLOv4 with robust post-processing algorithms
 
 ## Abstract
 
