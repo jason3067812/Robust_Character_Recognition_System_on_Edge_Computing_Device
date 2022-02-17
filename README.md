@@ -19,9 +19,9 @@ This project includes two different methods (System_V1 and System_V2). For detai
 
 ## System Interface Exhibition
 
-![image](https://user-images.githubusercontent.com/56544982/154509701-c7a5194c-625f-4dd8-ad45-58f7447a11f6.png)
+<img src="https://user-images.githubusercontent.com/56544982/154509701-c7a5194c-625f-4dd8-ad45-58f7447a11f6.png" alt="Cover" width="60%"/>
 
-![image](https://user-images.githubusercontent.com/56544982/154509721-c07edd75-5076-46ea-9ed6-e3a3eb2f0670.png)
+<img src="https://user-images.githubusercontent.com/56544982/154509721-c07edd75-5076-46ea-9ed6-e3a3eb2f0670.png" alt="Cover" width="60%"/>
 
 ## Results
 By comparing system version 1 and version 2:
