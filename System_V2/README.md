@@ -20,10 +20,9 @@ This system has two modules (two folders):
 
 ## Reverse character detection elaboration
 
-![image](https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png)
+<img src="https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png" alt="Cover" width="50%"/>
 
-![image](https://user-images.githubusercontent.com/56544982/154429094-b3f8f959-3b62-434f-b997-312c35dd43a2.png)
-
+<img src="https://user-images.githubusercontent.com/56544982/154429094-b3f8f959-3b62-434f-b997-312c35dd43a2.png" alt="Cover" width="50%"/>
 
 
 
