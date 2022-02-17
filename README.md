@@ -5,7 +5,7 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 
 ## Introduction
 
-This project contains two methods (System_V1 and System_V2). For details, please click on the above two folders.
+This project contains two different methods (System_V1 and System_V2). For details, please click on the above two folders.
 
 
 ## Comparing system 1 and system 2
