@@ -7,6 +7,15 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 
 This project contains two different methods (System_V1 and System_V2). For details, please click on the above two folders.
 
+## testing data exhibition
+
+1. steel plates:
+
+<img src="https://user-images.githubusercontent.com/56544982/154430718-02d09bd1-63dd-4e2c-9477-befb945aa68c.png" alt="Cover" width="50%"/>
+
+2. steel coils:
+
+<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="50%"/>
 
 ## Result
 By comparing system version 1 and version 2:
