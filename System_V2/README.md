@@ -14,3 +14,7 @@ This system has two modules (two folders):
 - Frontend: User Interface
 - Transmission protocal: gRPC
 
+## System architecture
+
+
+
