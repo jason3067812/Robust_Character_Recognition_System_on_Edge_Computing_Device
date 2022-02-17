@@ -17,6 +17,10 @@ This project includes two different methods (System_V1 and System_V2). For detai
 
 <img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="40%"/>
 
+## System Hardware Setting Exhibition
+
+<img src="https://user-images.githubusercontent.com/56544982/154511296-12788e64-a9de-4bfb-9992-205174f549e3.png" alt="Cover" width="40%"/>
+
 ## System Interface Exhibition
 
 <img src="https://user-images.githubusercontent.com/56544982/154509701-c7a5194c-625f-4dd8-ad45-58f7447a11f6.png" alt="Cover" width="40%"/>
@@ -36,7 +40,7 @@ By comparing system version 1 and version 2:
 
 ## Demo Video
 
-
+https://www.youtube.com/watch?v=7dJ7rLHM37Y
 
 ## Platforms
 1. Edge Computing Device: Nvidia AGX
