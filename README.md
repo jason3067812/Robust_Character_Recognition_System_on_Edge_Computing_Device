@@ -15,11 +15,11 @@ This project includes two different methods (System_V1 and System_V2). For detai
 
 2. Steel Coils:
 
-<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="40%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="50%"/>
 
 ## System Hardware Setting Exhibition
 
-<img src="https://user-images.githubusercontent.com/56544982/154511296-12788e64-a9de-4bfb-9992-205174f549e3.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154511296-12788e64-a9de-4bfb-9992-205174f549e3.png" alt="Cover" width="50%"/>
 
 ## System Interface Exhibition
 
