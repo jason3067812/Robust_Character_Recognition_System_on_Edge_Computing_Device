@@ -18,13 +18,13 @@ For details, please click on the above two folders and read the README inside th
 
 ## Overall System architecture
 
-<img src="https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png" alt="Cover" width="30%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png" alt="Cover" width="40%"/>
 
 ## Reverse character detection elaboration
 
-<img src="https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png" alt="Cover" width="60%"/>
 
-<img src="https://user-images.githubusercontent.com/56544982/154429094-b3f8f959-3b62-434f-b997-312c35dd43a2.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154429094-b3f8f959-3b62-434f-b997-312c35dd43a2.png" alt="Cover" width="60%"/>
 
 
 
