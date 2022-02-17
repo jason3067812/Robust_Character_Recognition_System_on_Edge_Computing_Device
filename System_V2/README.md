@@ -18,6 +18,7 @@ This system has two modules (two folders):
 
 ![image](https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png)
 
+
 ## Reverse character detection elaboration
 
 ![image](https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png)
