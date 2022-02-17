@@ -23,11 +23,11 @@ d. Transmission protocal: Sending images and recognition results via Socket
 ## Post-processing algorithms flow chart
 1. Error bounding boxes detection
 
-<img src="https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png" alt="Cover" width="60%"/>
 
 2. Upside-down characters detection
 
-<img src="https://user-images.githubusercontent.com/56544982/143669545-e44f7c3e-2766-425a-ba11-9f8fbafbb44e.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/143669545-e44f7c3e-2766-425a-ba11-9f8fbafbb44e.png" alt="Cover" width="70%"/>
 
 ## Error bounding box detection detail
 
