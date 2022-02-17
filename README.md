@@ -7,7 +7,7 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 
 This project contains two different methods (System_V1 and System_V2). For details, please click on the above two folders.
 
-## testing data exhibition
+## Dataset exhibition
 
 1. steel plates:
 
@@ -17,7 +17,7 @@ This project contains two different methods (System_V1 and System_V2). For detai
 
 <img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="50%"/>
 
-## Result
+## Results
 By comparing system version 1 and version 2:
 
 1. testing steel plates:
@@ -28,7 +28,7 @@ By comparing system version 1 and version 2:
 
 <img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="50%"/>
 
-## Platform
+## Platforms
 1. edge computing device: Nvidia AGX
 2. operating system: Linux
 3. language: Python
