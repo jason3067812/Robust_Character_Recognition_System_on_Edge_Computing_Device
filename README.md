@@ -1,7 +1,7 @@
 # Robust Character Recognition System on Nvidia AGX
 
 # Abstract
-This project is a Industry and Academia Cooperation to help ChinaSteel Inc. identify characters on steel plates.
+This project is a Industry and Academia Cooperation that aims to help ChinaSteel Inc. identify characters on steel plates.
 
 # Introduction
 
