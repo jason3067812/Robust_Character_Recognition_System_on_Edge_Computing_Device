@@ -2,11 +2,18 @@
 
 ## Abstract
 
-- No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters. Therefore, we aim to write algorithms to optimize the final result.
+No matter how good the model is, it is inevitable that it still cannot solve some exception situations. For example, duplicate bounding boxes or reversed characters. Therefore, we aim to write algorithms to optimize the final result.
 
-- We have implemented two algorithms to optimize YOLOv4 in character recognition:
-  1. Error bounding box detection
-  2. Upside-down characters detection
+## Introduction
+
+1. model: YOLOv4
+  - Function:
+    Step1: detecting the area of characters then 
+    Step2: identifying the character
+3. post-processing algorithms:
+  - We have implemented two algorithms to optimize YOLOv4 in character recognition:
+    1. Error bounding box detection
+    2. Upside-down characters detection
 
 ## Algorithms flow chart
 1. Error bounding boxes detection
