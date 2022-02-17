@@ -13,4 +13,5 @@ Really thanks to my teammates 李杰穎(stephen9412@icloud.com) and 陳子顥, I
 
 
 # Reference
-
+1. https://github.com/miemie2013/Pytorch-YOLOv4
+2. https://github.com/clovaai/CRAFT-pytorch
