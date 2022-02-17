@@ -1,14 +1,13 @@
-# cam ui
+# User Interface
+## Environment
 
-## 架設環境
+- Python: 3.6.
 
-Python 環境使用 3.6。
+- Please refer to the packages listed in `requirements.txt`.
 
-依照 `requirements.txt` 所列出的軟體包安裝即可。
+## Usage
 
-## 啟動服務
-
-運行以下指令即可啟動 UI 界面。
+Please run the following command to start the UI interface.
 
 ```bash
 python3 cam_UI_v2.py
