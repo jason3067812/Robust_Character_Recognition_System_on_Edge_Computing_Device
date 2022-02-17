@@ -16,8 +16,7 @@ This system has two modules (two folders):
 
 ## Overall System architecture
 
-![image](https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png)
-
+<img src="https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png" alt="Cover" width="60%"/>
 
 ## Reverse character detection elaboration
 
