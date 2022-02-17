@@ -1,4 +1,4 @@
-# User Interface
+# Camera User Interface
 ## Environment
 
 - Python: 3.6.
