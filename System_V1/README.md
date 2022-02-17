@@ -20,7 +20,7 @@ c. Frontend: Implementing a user interface via tkinter
 
 d. Transmission protocal: Sending images and recognition results via Socket
 
-## Algorithms flow chart
+## Post-processing algorithms flow chart
 1. Error bounding boxes detection
 
 <br>![image](https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png)
@@ -39,13 +39,18 @@ Therefore I developed an algorithm which can compare all duplicate bboxes and se
 
 ![image](https://user-images.githubusercontent.com/56544982/143669663-60761717-52d0-448e-8ed4-d280bafa1e51.png)
 
-## Usage
+## Training tutorial
 1. This code is based on YOLOv4, so please download the code from here first: https://github.com/miemie2013/Pytorch-YOLOv4
 2. Download and follow the content in my YOLOv4 environment setup tutorial.pptx step-by-step to finish all pre-processing works
+3. Then start training your own dataset
 
-## <P.S.>
-1. All algorithm functions are in yolov4_module.py
-2. You can refer to my main code to realize how to use those algorithms
+## Predicting tutorial
+1. Firstly, run final_system.py
+2. Secoondly, run cam_UI_v2.py
+
+## Other file function introduction
+1. final_module.py: all of algorithms are in this file
+2. final_path.py: when you only want to run a image file for testing, you can use this code
 
 ## Demo
 
