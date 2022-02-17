@@ -6,15 +6,18 @@ No matter how good the model is, it is inevitable that it still cannot solve som
 
 ## Introduction
 
-a. model: YOLOv4
+a. Backend model: YOLOv4
   - Function:
     1: First detecting the area of characters then 
     2: Then identifying the character in the target area
     
-b. post-processing algorithms:
+b. Backend post-processing algorithms:
   - We have implemented two algorithms to optimize YOLOv4 in character recognition:
     1. Error bounding box detection
     2. Upside-down characters detection
+
+c. Frontend: Implementing a user interface via tkinter
+d. Transmission protocal: Sending images and recognition results via Socket
 
 ## Algorithms flow chart
 1. Error bounding boxes detection
