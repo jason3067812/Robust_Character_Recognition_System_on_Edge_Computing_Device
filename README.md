@@ -42,7 +42,7 @@ By comparing system version 1 and version 2:
 
 https://www.youtube.com/watch?v=7dJ7rLHM37Y
 
-## Platforms
+## Platforms/Requirements
 1. Edge Computing Device: Nvidia AGX
 2. Operating System: Linux
 3. Programming Language: Python
