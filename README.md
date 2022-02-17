@@ -8,13 +8,18 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 This project contains two different methods (System_V1 and System_V2). For details, please click on the above two folders.
 
 
-## Comparing system 1 and system 2
+## Result
+By comparing system version 1 and version 2:
+
+
 
 
 
 ## Platform
 1. hardware: Nvidia AGX
-2. environment: Linux
+2. operating system: Linux
+3. language: Python
+4. environment: Pytorch for System_V1 and Tensorflow for System_V2
 
 ## Contributors
 Really thanks to all of them!
