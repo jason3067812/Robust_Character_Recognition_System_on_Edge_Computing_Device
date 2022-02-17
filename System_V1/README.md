@@ -24,6 +24,7 @@ d. Transmission protocal: Sending images and recognition results via Socket
 1. Error bounding boxes detection
 
 <br>![image](https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png)
+<img src="https://user-images.githubusercontent.com/56544982/143669533-6ad3ec75-0dc5-4169-8611-a6282046d658.png" alt="Cover" width="50%"/>
 
 2. Upside-down characters detection
 
