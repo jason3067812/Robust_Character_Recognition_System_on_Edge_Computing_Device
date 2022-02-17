@@ -10,8 +10,8 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 
 
 # Contributors
-Supervisor: Professor Andrew Lin (andrewlin@g.yzu.edu.tw)
-Teammates: 李杰穎 (stephen9412@icloud.com), 陳子顥 (s1063715@mail.yzu.edu.tw), 翁薏淳 (JennaWeng0621@gmail.com)
+1. Supervisor: Professor Andrew Lin (andrewlin@g.yzu.edu.tw)
+2. Teammates: 李杰穎 (stephen9412@icloud.com), 陳子顥 (s1063715@mail.yzu.edu.tw), 翁薏淳 (JennaWeng0621@gmail.com)
 
 Really thanks to all of them!
 
