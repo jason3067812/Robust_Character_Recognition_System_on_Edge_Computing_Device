@@ -11,7 +11,7 @@ This project contains two different methods (System_V1 and System_V2). For detai
 
 1. steel plates:
 
-<img src="https://user-images.githubusercontent.com/56544982/154431220-e3a90c64-1962-44c8-b298-56d27993de98.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154431220-e3a90c64-1962-44c8-b298-56d27993de98.png" alt="Cover" width="50%"/>
 
 2. steel coils:
 
