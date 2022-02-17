@@ -11,32 +11,32 @@ This project includes two different methods (System_V1 and System_V2). For detai
 
 1. Steel Plates:
 
-<img src="https://user-images.githubusercontent.com/56544982/154431220-e3a90c64-1962-44c8-b298-56d27993de98.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154431220-e3a90c64-1962-44c8-b298-56d27993de98.png" alt="Cover" width="60%"/>
 
 2. Steel Coils:
 
-<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="60%"/>
 
 ## System Hardware Setting Exhibition
 
-<img src="https://user-images.githubusercontent.com/56544982/154511296-12788e64-a9de-4bfb-9992-205174f549e3.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154511296-12788e64-a9de-4bfb-9992-205174f549e3.png" alt="Cover" width="60%"/>
 
 ## System Interface Exhibition
 
-<img src="https://user-images.githubusercontent.com/56544982/154509701-c7a5194c-625f-4dd8-ad45-58f7447a11f6.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154509701-c7a5194c-625f-4dd8-ad45-58f7447a11f6.png" alt="Cover" width="60%"/>
 
-<img src="https://user-images.githubusercontent.com/56544982/154509721-c07edd75-5076-46ea-9ed6-e3a3eb2f0670.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154509721-c07edd75-5076-46ea-9ed6-e3a3eb2f0670.png" alt="Cover" width="60%"/>
 
 ## Testing Results
 By comparing system version 1 and version 2:
 
 1. Testing steel plates:
 
-<img src="https://user-images.githubusercontent.com/56544982/154429780-a433d19e-287e-46bc-b507-6eb2e394f553.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154429780-a433d19e-287e-46bc-b507-6eb2e394f553.png" alt="Cover" width="60%"/>
 
 2. Testing steel coils by transfer learning (measure system's universality):
 
-<img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="50%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="60%"/>
 
 ## Demo Video
 
