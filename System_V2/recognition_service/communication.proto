@@ -1,0 +1,15 @@
+syntax = 'proto3';
+
+service data {
+    rpc recognize (data_request) returns (data_reply) {}
+}
+
+message data_request {
+    bytes b64image = 1;
+}
+
+message data_reply {
+    bool success = 1;
+    repeated string classes = 2;
+    bytes boxes = 3;
+}
