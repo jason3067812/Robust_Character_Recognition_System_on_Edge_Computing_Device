@@ -9,11 +9,11 @@ This project contains two different methods (System_V1 and System_V2). For detai
 
 ## Dataset exhibition
 
-1. steel plates:
+1. Steel Plates:
 
 <img src="https://user-images.githubusercontent.com/56544982/154431220-e3a90c64-1962-44c8-b298-56d27993de98.png" alt="Cover" width="50%"/>
 
-2. steel coils:
+2. Steel Coils:
 
 <img src="https://user-images.githubusercontent.com/56544982/154430938-994a7c87-5ea6-4c39-80fd-401f922628a5.png" alt="Cover" width="40%"/>
 
@@ -29,10 +29,10 @@ By comparing system version 1 and version 2:
 <img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="60%"/>
 
 ## Platforms
-1. edge computing device: Nvidia AGX
-2. operating system: Linux
-3. language: Python
-4. environment: Pytorch for System_V1 and Tensorflow for System_V2
+1. Edge Computing Device: Nvidia AGX
+2. Operating System: Linux
+3. Programming Language: Python
+4. Environment: Pytorch for System_V1 and Tensorflow for System_V2
 
 ## Contributors
 Really thanks to all of them, I learned a lot from them!
