@@ -35,7 +35,7 @@ By comparing system version 1 and version 2:
 4. environment: Pytorch for System_V1 and Tensorflow for System_V2
 
 ## Contributors
-Really thanks to all of them!
+Really thanks to all of them, I learned a lot from them!
 - Supervisor: Professor Andrew Lin (andrewlin@g.yzu.edu.tw)
 - Teammates: 李杰穎 (stephen9412@icloud.com), 陳子顥 (s1063715@mail.yzu.edu.tw), 翁薏淳 (JennaWeng0621@gmail.com)
 
