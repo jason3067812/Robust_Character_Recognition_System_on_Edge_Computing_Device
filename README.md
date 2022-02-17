@@ -19,6 +19,7 @@ By comparing system version 1 and version 2:
 
 ![image](https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png)
 
+<img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="50%"/>
 
 ## Platform
 1. edge computing device: Nvidia AGX
