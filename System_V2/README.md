@@ -8,9 +8,9 @@ This system has two modules (two folders):
 
 ## Introduction
 - Backend models:
-  - a. CRAFT: detecting the area of characters
-  - b. MobileNet: recognizing if characters are reversed or not
-  - c. EfficientNet: identifying the character
+  1. CRAFT: detecting the area of characters
+  2. MobileNet: recognizing if characters are reversed or not
+  3. EfficientNet: identifying the character
 - Frontend: User Interface
 - Transmission protocal: gRPC
 
