@@ -5,8 +5,8 @@
   1. CRAFT: detecting the area of characters
   2. MobileNet: recognizing if characters are reversed or not
   3. EfficientNet: identifying the character
-- Frontend: User Interface
-- Transmission protocal: gRPC
+- Frontend: Implementing a user interface via tkinter
+- Transmission protocal: Sending images and recognition results via gRPC
 
 ## Usage
 This system has two modules (two folders):
