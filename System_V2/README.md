@@ -16,11 +16,11 @@ This system has two modules (two folders):
 
 For details, please click on the above two folders and read the README inside them.
 
-## Overall System architecture
+## Overall System Architecture
 
 <img src="https://user-images.githubusercontent.com/56544982/154428730-f4c2a57b-555a-49ba-a6fa-e8869a1408b6.png" alt="Cover" width="40%"/>
 
-## Reverse character detection elaboration
+## Reverse Character Recognition Introduction
 
 <img src="https://user-images.githubusercontent.com/56544982/154624068-1760485d-87e9-4a91-96ba-25f61c9dcefe.png" alt="Cover" width="60%"/>
 
