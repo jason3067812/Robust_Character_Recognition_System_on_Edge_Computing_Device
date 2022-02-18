@@ -32,11 +32,11 @@ By comparing system version 1 and version 2:
 
 1. Testing steel plates:
 
-<img src="https://user-images.githubusercontent.com/56544982/154429780-a433d19e-287e-46bc-b507-6eb2e394f553.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154624533-a2ccbf4d-3d08-4c68-9adf-f40111f96923.png" alt="Cover" width="60%"/>
 
 2. Testing steel coils by transfer learning (measure system's universality):
 
-<img src="https://user-images.githubusercontent.com/56544982/154430151-230d6636-efb3-4543-9f8b-e0dca736f860.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154624603-5ba20a89-40a5-4709-86ff-d28b9b6f5389.png" alt="Cover" width="60%"/>
 
 ## Demo Video
 
