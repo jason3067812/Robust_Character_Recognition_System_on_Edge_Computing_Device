@@ -7,7 +7,7 @@ This project is a Industry and Academia Cooperation from ChinaSteel Inc. and Yau
 
 This project includes two different methods (System_V1 and System_V2). For details, please click on the above two folders and read the README inside them.
 
-## Dataset exhibition
+## Dataset Exhibition
 
 1. Steel Plates:
 
