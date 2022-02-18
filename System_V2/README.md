@@ -22,7 +22,7 @@ For details, please click on the above two folders and read the README inside th
 
 ## Reverse character detection elaboration
 
-<img src="https://user-images.githubusercontent.com/56544982/154429128-52a4e927-24c6-4942-8329-02cd94d53897.png" alt="Cover" width="60%"/>
+<img src="https://user-images.githubusercontent.com/56544982/154624068-1760485d-87e9-4a91-96ba-25f61c9dcefe.png" alt="Cover" width="60%"/>
 
 <img src="https://user-images.githubusercontent.com/56544982/154429094-b3f8f959-3b62-434f-b997-312c35dd43a2.png" alt="Cover" width="60%"/>
 
