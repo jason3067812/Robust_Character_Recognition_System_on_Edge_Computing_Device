@@ -59,5 +59,5 @@ Really thanks to all of them, I learned a lot from them!
 2. https://github.com/clovaai/CRAFT-pytorch
 3. https://grpc.io/docs/languages/python/basics/
 4. https://shengyu7697.github.io/python-tcp-socket/
-5. https://www.baslerweb.com/cn/sales-support/downloads/software-downloads/#type=pylonsoftware;language=all;version=all
-6. https://github.com/basler/pypylon/releases/tag/1.6.0
+5. https://github.com/basler/pypylon/releases/tag/1.6.0
+6. https://www.baslerweb.com/cn/sales-support/downloads/software-downloads/#type=pylonsoftware;language=all;version=all
