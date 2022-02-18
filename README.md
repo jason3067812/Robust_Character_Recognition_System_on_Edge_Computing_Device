@@ -42,14 +42,14 @@ By comparing system version 1 and version 2:
 
 https://www.youtube.com/watch?v=7dJ7rLHM37Y
 
-## Platforms/Requirements
+## Platform/Requirement
 1. Edge Computing Device: Nvidia AGX
 2. Camera: Basler Industrial Camera (acA2440-20gm)
 3. Operating System: Linux
 4. Programming Language: Python
 5. Environment: Pytorch for System_V1 and Tensorflow for System_V2
 
-## Contributors
+## Contributor
 Really thanks to all of them, I learned a lot from them!
 - Supervisor: Professor Andrew Lin (andrewlin@g.yzu.edu.tw)
 - Teammates: Stephen Li (cyli09701225@gmail.com), Jeffery Chen (s1063715@mail.yzu.edu.tw), Jenna Weng (JennaWeng0621@gmail.com)
