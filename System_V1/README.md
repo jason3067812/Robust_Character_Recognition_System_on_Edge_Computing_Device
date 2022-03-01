@@ -49,7 +49,7 @@ Therefore I developed an algorithm which can compare all duplicate bboxes and se
 2. Secoondly, run final_system.py
 3. Thirdly, run cam_UI_v2.py
 
-## Other file function introduction
+## Other files function introduction
 1. final_module.py: all of algorithms are in this file
 2. final_path.py: when you only want to run a image file for testing, you can use this code
 
